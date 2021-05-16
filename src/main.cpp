@@ -31,7 +31,7 @@
 bool ledon = false;
 #endif
 
-//#define ENABLE_MPU6050 //if want use oled,turn on this macro
+#define ENABLE_MPU6050 //if want use oled,turn on this macro
 #define ENABLE_OLED //if want use oled,turn on this macro
 // #define SOFTAP_MODE // If you want to run our own softap turn this on
 #define ENABLE_WEBSERVER
