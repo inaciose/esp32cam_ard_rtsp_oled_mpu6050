@@ -12,13 +12,13 @@ Using Platformio libs:
 
 Video available on the following address (change the ip)
 
-RTSP protocol: rtsp://192.168.1.10:8554/mjpeg/1
-HTTP protocol: http://192.168.1.10/
-Library repos
+- RTSP protocol: rtsp://192.168.1.10:8554/mjpeg/1
+- HTTP protocol: http://192.168.1.10/
+- Library repos
 
-https://github.com/ThingPulse/esp8266-oled-ssd1306
-https://github.com/geeksville/Micro-RTSP
-https://github.com/jrowberg/i2cdevlib
+- https://github.com/ThingPulse/esp8266-oled-ssd1306
+- https://github.com/geeksville/Micro-RTSP
+- https://github.com/jrowberg/i2cdevlib
 
 # ATTENTION
 On compilation error, add a the top off MPU6050.cpp library file:
